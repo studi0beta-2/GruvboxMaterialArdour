@@ -1,5 +1,5 @@
 # Gruvbox Material Dark Ardour color theme
-*Gruvox material inspired color theme for Ardour*
+*Color theme for Ardour using the wondeful Gruvbox Material Color scheme*
 
 ### Instructions
 - copy themes/gruvDarkMat-ardour.colors to ~/.config/ardour8/themes/
