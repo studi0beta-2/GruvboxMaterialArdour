@@ -4,8 +4,9 @@
 
 ---
 
-![Screenshot_20250608_091327](https://github.com/user-attachments/assets/a6140ffb-27c0-4919-b3c5-12ed2b44d503)
----
+
+![Screenshot_20250608_093037](https://github.com/user-attachments/assets/541bcb86-a728-42a7-bc36-a7923fc571e4)
+
 
 ### Instructions
 
