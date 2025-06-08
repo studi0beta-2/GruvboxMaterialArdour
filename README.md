@@ -2,11 +2,11 @@
 *Gruvox material inspired color theme for Ardour*
 
 ### Instructions
-copy themes/gruvDarkMat-ardour.colors to ~/.config/ardour8/themes/
-copy resources/Ardour-small-splash.png to ~/.config/ardour8/resources/
-copy resources/Ardour-small-splash.png to ~/.config/ardour8/resources/
+- copy themes/gruvDarkMat-ardour.colors to ~/.config/ardour8/themes/
+- copy resources/Ardour-small-splash.png to ~/.config/ardour8/resources/
+- copy resources/Ardour-small-splash.png to ~/.config/ardour8/resources/
 
-Select GruvboxMaterialDark color theme from edit > preferences > colors
+- Select GruvboxMaterialDark color theme from edit > preferences > colors
 
 ---
 **Recommended appearance settings:**
