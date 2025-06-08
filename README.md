@@ -13,12 +13,12 @@ Select GruvboxMaterialDark color theme from edit > preferences > colors
 Recommended appearance settings:
 
 - Appearance > Color faders with track.bus colors
-             > Draw "flat" buttons
-             > LED meter style
+- Appearance > Draw "flat" buttons
+- Appearance > LED meter style
 
 - Editor > Region color follows track color
-         > Waveforms colour gradient depth = 0
-         > Timeline item gradient depth = 0
+- Editor > Waveforms colour gradient depth = 0
+- Editor > Timeline item gradient depth = 0
 
 
 
