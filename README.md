@@ -20,5 +20,6 @@
 - Editor > Timeline item gradient depth = 0
 
 
+![Screenshot_20250608_091327](https://github.com/user-attachments/assets/a6140ffb-27c0-4919-b3c5-12ed2b44d503)
 
 
