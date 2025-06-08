@@ -14,13 +14,13 @@
     <Color name="theme:bg2" value="282828ff"/>  <!--ruler base-->
     <Color name="theme:contrasting" value="e78a4eff"/>  <!--play head-->
     <Color name="theme:contrasting clock" value="a9b665ff"/>  <!--clock: text-->
-    <Color name="theme:contrasting less" value="282828ff"/>
+    <Color name="theme:contrasting less" value="a9b665ff"/>
     <Color name="theme:contrasting selection" value="ebdbb2ff"/>  <!--gtk_bg_selected-->
     <Color name="theme:contrasting alt" value="a9b665ff"/>  <!--delta clock , clock edit-->
     <Color name="neutral:backgroundest" value="1c1c1cff"/>  <!--border color-->
     <Color name="neutral:background" value="282828ff"/>  <!--audio track base-->
     <Color name="neutral:background2" value="282828ff"/>  <!--range marker bar-->
-    <Color name="neutral:midground" value="484848ff"/>  <!--grid line minor-->
+    <Color name="neutral:midground" value="517069ff"/>  <!--grid line minor-->
     <Color name="neutral:foreground2" value="ebdbb2ff"/>  <!--marker track-->
     <Color name="neutral:foreground" value="ebdbb2ff"/>  <!--gtk_foreground-->
     <Color name="neutral:foregroundest" value="ebdbb2ff"/>  <!--grid line major-->
@@ -485,7 +485,7 @@
     <ColorAlias name="verbose canvas cursor" alias="theme:contrasting clock"/>
     <ColorAlias name="video timeline bar" alias="neutral:background2"/>
     <ColorAlias name="waveform fill" alias="neutral:backgroundest"/>
-    <ColorAlias name="waveform outline" alias="neutral:background"/>
+    <ColorAlias name="waveform outline" alias="neutral:backgroundest"/>
     <ColorAlias name="zero line" alias="neutral:backgroundest"/>
     <ColorAlias name="zoom button: fill" alias="widget:bg"/>
     <ColorAlias name="zoom button: fill active" alias="alert:green"/>
