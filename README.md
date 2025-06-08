@@ -8,7 +8,7 @@ copy resources/Ardour-small-splash.png to ~/.config/ardour8/resources/
 
 Select GruvboxMaterialDark color theme from edit > preferences > colors
 
-
+---
 **Recommended appearance settings:**
 
 - Appearance > Color faders with track.bus colors
