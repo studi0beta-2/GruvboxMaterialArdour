@@ -15,12 +15,12 @@
     <Color name="theme:contrasting" value="e78a4eff"/>  <!--play head-->
     <Color name="theme:contrasting clock" value="a9b665ff"/>  <!--clock: text-->
     <Color name="theme:contrasting less" value="282828ff"/>
-    <Color name="theme:contrasting selection" value="7c6f64ff"/>  <!--gtk_bg_selected-->
+    <Color name="theme:contrasting selection" value="ebdbb2ff"/>  <!--gtk_bg_selected-->
     <Color name="theme:contrasting alt" value="a9b665ff"/>  <!--delta clock , clock edit-->
     <Color name="neutral:backgroundest" value="1c1c1cff"/>  <!--border color-->
     <Color name="neutral:background" value="282828ff"/>  <!--audio track base-->
     <Color name="neutral:background2" value="282828ff"/>  <!--range marker bar-->
-    <Color name="neutral:midground" value="ebdbb2ff"/>  <!--grid line minor-->
+    <Color name="neutral:midground" value="484848ff"/>  <!--grid line minor-->
     <Color name="neutral:foreground2" value="ebdbb2ff"/>  <!--marker track-->
     <Color name="neutral:foreground" value="ebdbb2ff"/>  <!--gtk_foreground-->
     <Color name="neutral:foregroundest" value="ebdbb2ff"/>  <!--grid line major-->
@@ -28,7 +28,7 @@
     <Color name="widget:blue" value="7daea3ff"/>  <!--processor fader: fill-->
     <Color name="widget:blue lighter" value="7daea3ff"/>  <!--processor fader: fill-->
     <Color name="widget:blue darker" value="282828ff"/>  <!--gtk_audio_bus-->
-    <Color name="widget:gray" value="595755ff"/>  <!--gtk_processor fader-->
+    <Color name="widget:gray" value="ebdbb2ff"/>  <!--gtk_processor fader-->
     <Color name="widget:green" value="617552ff"/>  <!--gtk processor postfader,  gtk_midi_track-->
     <Color name="widget:green darker" value="3C403AFF"/>  <!--midi track base-->
     <Color name="widget:orange" value="904010ff"/>  <!--tempo marker-->
