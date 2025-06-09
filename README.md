@@ -11,7 +11,6 @@
 ### Instructions
 
 - copy themes/gruvDarkMat-ardour.colors to ~/.config/ardour8/themes/
-- copy all files from resources/ to ~/.config/ardour8/resources/
 - Select GruvboxMaterialDark color theme from edit > preferences > colors
 
 ---
